@@ -3,11 +3,6 @@ Interactive D3.js visualization tool for exploring normalized gene expression (F
 ## Live Demo 
 [View Live] [https://veroniperera.github.io/Gene-Expression-Explorer-/]
 
-##Screenshot 
-!Gene expression explorer screenshot 
-[Screenshot 2026-09-07 160949.png]
-
-
 ## How it works 
 1. Loads `visualization_data.json` (after data cleaning from the orgininal normalized FPKM file).
 2. Populates a multi-select dropdown with genes that have a known gene symbol.
